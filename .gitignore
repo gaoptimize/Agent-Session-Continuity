@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.user
+.idea/
+.vscode/
+.test-state/
+artifacts/
+
